@@ -15,7 +15,7 @@ export default defineConfig(() => {
   host: true, // or '0.0.0.0'
 
   allowedHosts: [
-    "website-3lr0.onrender.com"
+    "all",
   ],
 
   // HMR is disabled in AI Studio via DISABLE_HMR env var.
